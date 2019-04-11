@@ -1,7 +1,7 @@
 ﻿using System;
 namespace v0dot3
 {
-    public class students
+    public class students_for_task3
     {
 
         String fullName;
